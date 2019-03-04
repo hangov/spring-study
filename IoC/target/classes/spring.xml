@@ -5,8 +5,8 @@
 
     <!--定义-->
     <bean id="messageServiceImpl" class="com.spring.spring.quickstart.MessageServiceImpl">
-        <constructor-arg name="username" value="Way lau"/>
-        <constructor-arg name="age" value="30"/>
+        <constructor-arg name="username" value="mengqingyu"/>
+        <constructor-arg name="age" value="21"/>
     </bean>
     <bean id="messagePrinter" class="com.spring.spring.quickstart.MessagePrinter">
         <constructor-arg name="service" ref="messageServiceImpl"/>
