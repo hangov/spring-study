@@ -2,30 +2,45 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8912d688-b864-402e-b35b-b298f11bd98e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_16_18.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_6.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_0_10_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quickstart/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/HelloApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/StudentApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_0_10_RELEASE.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Max.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MaxApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MessagePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MessageService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MessageServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Metting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MettingApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/UserLogin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/UserLoginApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/resources/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/test/java/com/spring/spring/quickstart/MaxTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IoC/src/test/java/com/spring/spring/quickstart/UserLoginTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/IoC/IoC.iml" beforeDir="false" afterPath="$PROJECT_DIR$/IoC/IoC.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IoC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IoC/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IoC/src/main/java/com/spring/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IoC/src/test/java/com/spring/AppTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/IoC/src/test/java/com/spring/spring/AppTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quickstart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/quickstart/quickstart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/quickstart.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/target/classes/com/spring/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/target/test-classes/com/spring/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/src/main/java/com/spring/quickstart/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/src/main/java/com/spring/spring/quickstart/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Hello.java" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/spring/quickstart/Hello.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/HelloApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/spring/quickstart/HelloApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Phone.java" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/spring/quickstart/Phone.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/spring/quickstart/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/StudentApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/src/test/java/com/spring/spring/quickstart/StudentApp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/target/test-classes/com/spring/quickstart/xml/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/target/test-classes/com/spring/quickstart/xml/HelloApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/target/test-classes/com/spring/quickstart/xml/Phone.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/target/test-classes/com/spring/quickstart/xml/Student.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/quickstart/target/test-classes/com/spring/quickstart/xml/StudentApp.class" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/quickstart/target/" />
     <ignored path="$PROJECT_DIR$/IoC/target/" />
@@ -39,74 +54,55 @@
     <session id="118670048">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="3" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.27" value="1" />
+          <entry key="project.open.time.36" value="1" />
           <entry key="project.open.time.5" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="iml" value="1" />
-          <entry key="java" value="9" />
-          <entry key="properties" value="1" />
-          <entry key="xml" value="5" />
+          <entry key="iml" value="7" />
+          <entry key="java" value="69" />
+          <entry key="properties" value="4" />
+          <entry key="xml" value="22" />
+          <entry key="xsd" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="IDEA_MODULE" value="1" />
-          <entry key="JAVA" value="9" />
-          <entry key="Properties" value="1" />
-          <entry key="XML" value="5" />
+          <entry key="IDEA_MODULE" value="7" />
+          <entry key="JAVA" value="69" />
+          <entry key="Properties" value="4" />
+          <entry key="XML" value="23" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="17" />
-          <entry key="xml" value="19" />
+          <entry key="dummy" value="4" />
+          <entry key="java" value="1321" />
+          <entry key="xml" value="592" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="17" />
-          <entry key="XML" value="19" />
+          <entry key="JAVA" value="1321" />
+          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="XML" value="592" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quickstart/pom.xml">
+        <entry file="file://$PROJECT_DIR$/IoC/src/test/java/com/spring/spring/quickstart/MaxTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret line="24" selection-start-line="24" selection-end-line="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quickstart/src/main/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
-              <caret line="19" selection-start-line="19" selection-end-line="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Hello.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/HelloApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="323">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -115,39 +111,64 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Phone.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/UserLogin.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="114">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Student.java">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Max.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="228">
+              <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+              <folding>
+                <element signature="e#219#220#0" expanded="true" />
+                <element signature="e#254#255#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MessagePrinter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MessageServiceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="38">
+              <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/StudentApp.java">
+        <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Application.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="209">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#249#278#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/quickstart/quickstart.iml">
+        <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MessageService.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
+            <state relative-caret-position="57">
+              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/IoC/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -155,6 +176,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="JUnit4 Test Class" />
         <option value="Class" />
       </list>
     </option>
@@ -166,14 +190,33 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/AppTest.java" />
-        <option value="$PROJECT_DIR$/IoC/pom.xml" />
         <option value="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/annotation/Hello.java" />
         <option value="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Hello.java" />
-        <option value="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/HelloApp.java" />
         <option value="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Phone.java" />
         <option value="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Student.java" />
         <option value="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/StudentApp.java" />
+        <option value="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/HelloApp.java" />
+        <option value="$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/HelloApp.java" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/quickstart/MessageService.java" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/quickstart/newClassPathXmlApplicationContext.java" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/quickstart/Application.java" />
         <option value="$PROJECT_DIR$/quickstart/pom.xml" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/quickstart/MessagePrinter.java" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/quickstart/MessageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Boss.java" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Metting.java" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Car.java" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MettingApp.java" />
+        <option value="$PROJECT_DIR$/IoC/pom.xml" />
+        <option value="$PROJECT_DIR$/IoC/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/UserLoginApp.java" />
+        <option value="$PROJECT_DIR$/IoC/src/test/java/com/spring/spring/quickstart/UserLoginTest.java" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/User.java" />
+        <option value="$PROJECT_DIR$/IoC/src/test/java/com/spring/spring/quickstart/MaxTest.java" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MaxApp.java" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Max.java" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/UserLogin.java" />
+        <option value="$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/people.java" />
       </list>
     </option>
   </component>
@@ -202,111 +245,194 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="IoC" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="quickstart" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
           <item name="quickstart" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="quickstart" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="quickstart" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+          <item name="org.springframework:spring-context:5.0.10.RELEASE" type="c0821a7e:MavenProjectsStructure$DependencyNode" />
         </path>
       </expand>
       <select />
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="653" />
-    <option name="y" value="40" />
-    <option name="width" value="1134" />
-    <option name="height" value="773" />
+    <option name="x" value="650" />
+    <option name="y" value="515" />
+    <option name="width" value="1135" />
+    <option name="height" value="665" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Spring</id>
+          </State>
+          <State>
+            <id>Spring CoreSpring</id>
+          </State>
+          <State>
+            <id>XMLSpring CoreSpring</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>InjectionValueTypeInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quickstart" type="462c0819:PsiDirectoryNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quickstart" type="462c0819:PsiDirectoryNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quickstart" type="462c0819:PsiDirectoryNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
               <item name="quickstart" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quickstart" type="462c0819:PsiDirectoryNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quickstart" type="462c0819:PsiDirectoryNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quickstart" type="462c0819:PsiDirectoryNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="quickstart" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="quickstart" type="462c0819:PsiDirectoryNode" />
+              <item name="IoC" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="spring" type="462c0819:PsiDirectoryNode" />
               <item name="quickstart" type="462c0819:PsiDirectoryNode" />
-              <item name="xml" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551661154544" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551693717461" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="settings.editor.selected.configurable" value="Console" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="com.spring.spring.quickstart" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\test\spring-study\IoC\src\main\resources" />
+      <recent name="D:\test\spring-study\quickstart\src\main\resources" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.spring.quickstart.xml" />
       <recent name="com.spring.quickstart.annotation" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\test\spring-study\quickstart\src\main\resources" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.spring.quickstart" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -321,13 +447,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.HelloApp">
-    <configuration name="HelloApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spring.quickstart.xml.HelloApp" />
-      <module name="quickstart" />
+  <component name="RunManager" selected="Application.Application">
+    <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.spring.quickstart.Application" />
+      <module name="IoC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spring.quickstart.xml.*" />
+          <option name="PATTERN" value="com.spring.spring.quickstart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,12 +461,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.spring.quickstart.xml.StudentApp" />
-      <module name="quickstart" />
+    <configuration name="MettingApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.spring.quickstart.MettingApp" />
+      <module name="IoC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spring.quickstart.xml.*" />
+          <option name="PATTERN" value="com.spring.spring.quickstart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -348,30 +474,62 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AppTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="quickstart" />
+    <configuration name="UserLogin" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.spring.quickstart.UserLogin" />
+      <module name="IoC" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.spring.*" />
+          <option name="PATTERN" value="com.spring.spring.quickstart.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.spring" />
-      <option name="MAIN_CLASS_NAME" value="com.spring.AppTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserLoginApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.spring.spring.quickstart.UserLoginApp" />
+      <module name="IoC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.spring.quickstart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserLoginTest.userLogin" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IoC" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.spring.spring.quickstart.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.spring.spring.quickstart" />
+      <option name="MAIN_CLASS_NAME" value="com.spring.spring.quickstart.UserLoginTest" />
+      <option name="METHOD_NAME" value="userLogin" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.AppTest" />
-      <item itemvalue="Application.StudentApp" />
-      <item itemvalue="Application.HelloApp" />
+      <item itemvalue="Application.MettingApp" />
+      <item itemvalue="Application.UserLogin" />
+      <item itemvalue="JUnit.UserLoginTest.userLogin" />
+      <item itemvalue="Application.UserLoginApp" />
+      <item itemvalue="Application.Application" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HelloApp" />
-        <item itemvalue="Application.StudentApp" />
-        <item itemvalue="JUnit.AppTest" />
+        <item itemvalue="Application.Application" />
+        <item itemvalue="JUnit.UserLoginTest.userLogin" />
+        <item itemvalue="Application.UserLoginApp" />
+        <item itemvalue="Application.MettingApp" />
+        <item itemvalue="Application.UserLogin" />
       </list>
     </recent_temporary>
   </component>
@@ -385,7 +543,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1551657942867</updated>
-      <workItem from="1551657947490" duration="3174000" />
+      <workItem from="1551657947490" duration="11862000" />
+      <workItem from="1551672264477" duration="11430000" />
+      <workItem from="1551684437665" duration="157000" />
+      <workItem from="1551692205809" duration="659000" />
+      <workItem from="1551692916611" duration="1030000" />
     </task>
     <servers />
   </component>
@@ -393,12 +555,33 @@
     <history-entry file="AppTest - 2019.03.04 at 08h 17m 16s.xml">
       <configuration name="AppTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="AppTest_(1) - 2019.03.04 at 09h 47m 29s.xml">
+      <configuration name="AppTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxTest_getMax - 2019.03.04 at 14h 11m 18s.xml">
+      <configuration name="MaxTest.getMax" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MaxTest_getMax - 2019.03.04 at 14h 11m 26s.xml">
+      <configuration name="MaxTest.getMax" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserLoginTest_userLogin - 2019.03.04 at 14h 44m 33s.xml">
+      <configuration name="UserLoginTest.userLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserLoginTest_userLogin - 2019.03.04 at 14h 47m 06s.xml">
+      <configuration name="UserLoginTest.userLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserLoginTest_userLogin - 2019.03.04 at 15h 02m 09s.xml">
+      <configuration name="UserLoginTest.userLogin" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="UserLoginTest_userLogin - 2019.03.04 at 15h 13m 32s.xml">
+      <configuration name="UserLoginTest.userLogin" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3174000" />
+    <option name="totallyTimeSpent" value="25138000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
@@ -406,31 +589,62 @@
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.3552279" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.31769437" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32991204" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="bottom" id="Terminal" order="1" weight="0.32796487" />
-      <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Database Changes" order="3" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.329429" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="10" weight="0.32900432" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32991204" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32796487" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5013405" side_tool="true" weight="0.2829912" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32991204" />
+      <window_info active="true" anchor="bottom" id="Run" order="8" sideWeight="0.49865952" visible="true" weight="0.2829912" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32900432" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="right" id="Database" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" visible="true" weight="0.25067025" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.27479893" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.31367293" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="1" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32991204" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32796487" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5013405" side_tool="true" weight="0.2829912" />
+      <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" weight="0.32991204" />
+      <window_info anchor="bottom" id="Run" order="8" sideWeight="0.49865952" weight="0.2829912" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="11" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="12" weight="0.32900432" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Theme Preview" order="2" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.27479893" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -439,80 +653,245 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/IoC/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/annotation/Hello.java">
+    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/annotation/Hello.java" />
+    <entry file="file://$PROJECT_DIR$/quickstart/src/main/resources/beans.xml" />
+    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/AppTest.java" />
+    <entry file="file://$PROJECT_DIR$/quickstart/quickstart.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="149">
+          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/main/resources/beans.xml">
+    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/spring/quickstart/StudentApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Phone.java">
+    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/spring/quickstart/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/spring/quickstart/Phone.java">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Student.java">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/Hello.java">
+    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/spring/quickstart/Hello.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/HelloApp.java">
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/App.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/spring/quickstart/HelloApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
           <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/test/java/com/spring/spring/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quickstart/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1815">
+          <caret line="282" column="12" selection-start-line="282" selection-start-column="12" selection-end-line="282" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/quickstart/newClassPathXmlApplicationContext.java" />
+    <entry file="file://$PROJECT_DIR$/quickstart/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="46" column="36" selection-start-line="46" selection-start-column="36" selection-end-line="46" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/App.java" />
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/resources/log4j.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="62" column="21" selection-start-line="62" selection-start-column="21" selection-end-line="62" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/IoC.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MettingApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="8" lean-forward="true" selection-start-line="8" selection-start-column="8" selection-end-line="10" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <element signature="e#299#300#0" expanded="true" />
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#375#376#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#448#449#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MaxApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="8" column="47" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/main/resources/log4j.properties">
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/resources/spring.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="1216">
+          <caret line="64" column="32" selection-start-line="64" selection-start-column="32" selection-end-line="64" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/pom.xml">
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Boss.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="24" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="703">
+          <caret line="53" column="18" selection-start-line="53" selection-start-column="18" selection-end-line="53" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/AppTest.java">
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Car.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="2" selection-end-column="23" />
+        <state relative-caret-position="684">
+          <caret line="48" column="1" selection-start-line="48" selection-start-column="1" selection-end-line="48" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/quickstart.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="4" selection-start-line="8" selection-start-column="4" selection-end-line="8" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/xml/StudentApp.java">
+    <entry file="file://$PROJECT_DIR$/IoC/src/test/java/com/spring/spring/quickstart/UserLoginTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/UserLoginApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Metting.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/test/java/com/spring/spring/quickstart/MaxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Max.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="19" lean-forward="true" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
+          <folding>
+            <element signature="e#219#220#0" expanded="true" />
+            <element signature="e#254#255#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/people.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/UserLogin.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MessagePrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="27" selection-start-line="2" selection-start-column="27" selection-end-line="2" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MessageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/MessageServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="57" selection-start-line="2" selection-start-column="57" selection-end-line="2" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IoC/src/main/java/com/spring/spring/quickstart/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+          <folding>
+            <element signature="e#249#278#1" expanded="true" />
           </folding>
         </state>
       </provider>
