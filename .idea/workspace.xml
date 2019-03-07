@@ -1,41 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8912d688-b864-402e-b35b-b298f11bd98e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_17.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_9_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_7_12.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_test_5_1_5_RELEASE.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/aop.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/spring/quickstart/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/spring/quickstart/HelloApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/spring/quickstart/HelloImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/spring/quickstart/Move.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/spring/quickstart/MyBeforeAdvice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/spring/quickstart/Tank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/spring/quickstart/TankProxy.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/main/java/com/spring/spring/quickstart/TestTank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/main/resources/log4j.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aop/src/main/resources/spring.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="8912d688-b864-402e-b35b-b298f11bd98e" name="Default Changelist" comment="commit app module">
+      <change afterPath="$PROJECT_DIR$/aop/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IoC/logs/my_log.log" beforeDir="false" afterPath="$PROJECT_DIR$/IoC/logs/my_log.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IoC/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IoC/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/my_log.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/my_log.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/quickstart/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/quickstart/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/quickstart/target/" />
     <ignored path="$PROJECT_DIR$/IoC/target/" />
@@ -64,6 +32,7 @@
         <counts>
           <entry key="iml" value="7" />
           <entry key="java" value="83" />
+          <entry key="md" value="1" />
           <entry key="properties" value="5" />
           <entry key="xml" value="30" />
           <entry key="xsd" value="1" />
@@ -73,6 +42,7 @@
         <counts>
           <entry key="IDEA_MODULE" value="7" />
           <entry key="JAVA" value="83" />
+          <entry key="Markdown" value="1" />
           <entry key="Properties" value="5" />
           <entry key="XML" value="31" />
         </counts>
@@ -81,13 +51,16 @@
         <counts>
           <entry key="dummy" value="4" />
           <entry key="java" value="1816" />
+          <entry key="md" value="57" />
+          <entry key="txt" value="21" />
           <entry key="xml" value="1137" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JAVA" value="1816" />
-          <entry key="PLAIN_TEXT" value="4" />
+          <entry key="Markdown" value="57" />
+          <entry key="PLAIN_TEXT" value="25" />
           <entry key="XML" value="1137" />
         </counts>
       </usages-collector>
@@ -139,11 +112,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/aop/src/main/resources/spring.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
+            <state relative-caret-position="189">
               <caret line="15" column="84" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/aop/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="38">
+                <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -222,6 +207,7 @@
         <option value="$PROJECT_DIR$/aop/pom.xml" />
         <option value="$PROJECT_DIR$/aop/src/main/java/com/spring/spring/quickstart/HelloApp.java" />
         <option value="$PROJECT_DIR$/aop/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/aop/README.md" />
       </list>
     </option>
   </component>
@@ -365,13 +351,6 @@
             </path>
             <path>
               <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
-              <item name="aop" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-study" type="b2602c69:ProjectViewProjectNode" />
               <item name="IoC" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -435,7 +414,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551924703093" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1551925465665" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -579,8 +558,16 @@
       <workItem from="1551684437665" duration="157000" />
       <workItem from="1551692205809" duration="659000" />
       <workItem from="1551692916611" duration="7709000" />
-      <workItem from="1551916400893" duration="7627000" />
+      <workItem from="1551916400893" duration="8580000" />
     </task>
+    <task id="LOCAL-00001" summary="commit app module">
+      <created>1551924767681</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1551924767681</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -616,22 +603,23 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="39444000" />
+    <option name="totallyTimeSpent" value="40397000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.23123324" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.23123324" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" order="0" />
       <window_info anchor="bottom" id="Version Control" order="1" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32991204" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32551318" />
+      <window_info anchor="bottom" id="Terminal" order="3" visible="true" weight="0.32551318" />
       <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5013405" side_tool="true" weight="0.2829912" />
       <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
       <window_info anchor="bottom" id="Message" order="6" />
@@ -689,8 +677,11 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit app module" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit app module" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/annotation/Hello.java" />
     <entry file="file://$PROJECT_DIR$/quickstart/src/main/resources/beans.xml" />
     <entry file="file://$PROJECT_DIR$/quickstart/src/test/java/com/spring/quickstart/AppTest.java" />
     <entry file="file://$PROJECT_DIR$/quickstart/quickstart.iml">
@@ -1032,8 +1023,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/aop/src/main/resources/spring.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
+        <state relative-caret-position="189">
           <caret line="15" column="84" selection-start-line="15" selection-start-column="84" selection-end-line="15" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/aop/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="38">
+            <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
