@@ -12,8 +12,6 @@
         <aop:aspect id="before" ref="myBeforeAdvice">
             <aop:pointcut id="myPoinCut" expression="execution(* com.spring.spring.quickstart.*.*(..))"/>
             <aop:before method="beforeMethod" pointcut-ref="myPoinCut"/>
-
         </aop:aspect>
-
     </aop:config>
 </beans>

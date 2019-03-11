@@ -11,12 +11,12 @@ import static org.junit.Assert.*;
 @RunWith(SpringJUnit4ClassRunner.class)
 @ContextConfiguration(locations = {"/user.xml"})
 public class UserDaoTest {
-    @Autowired
-    private UserDao userDao;
-
-    @Test
-    public void insert() {
-        userDao.insert();
-
-    }
+//    @Autowired
+//    private UserDao userDao;
+//
+//    @Test
+//    public void insert() {
+//        userDao.insert();
+//
+//    }
 }
